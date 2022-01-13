@@ -2,7 +2,7 @@
   
 ### Week 1
 - Introductory Session (Jan 17 20:00)
-- Python Review
+- Python Self-Review
 
 ### Week 2
 - Algorithms: Searching, Math (Opt)
