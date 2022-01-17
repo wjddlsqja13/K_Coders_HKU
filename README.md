@@ -85,7 +85,7 @@ __[Links]__ <br>
 __Reference 폴더__ <br>
 - *Materials 폴더*: 각종 토픽에 관련한 자료들을 업로드 해놨습니다. 
 - *Code_Review_Example.ipynb*: 매 주 업로드 해야하는 코드 정리 파일의 양식입니다.
-- *problems.py*: 터미널 커맨드에 문제코드와 함께 파일을 실행하면 문제에 관한 정보를 출력합니다. 예시: ```python3 problems.py H123456```
+- *problems.py*: 터미널 커맨드에 p 인자와 함께 파일을 실행하면 문제에 관한 정보를 출력합니다. 예시: ```python3 problems.py p```
 - *solution_example.py*: 문제에 대한 솔루션 파일 제출 양식 및 안내입니다.
 - *추후에 새로운 파일 및 폴더가 추가되면 이곳에도 설명 첨부하겠습니다.*
   
