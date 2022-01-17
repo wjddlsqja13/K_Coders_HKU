@@ -74,7 +74,12 @@ __[Extra Info]__ <br>
   
 __[Links]__ <br>
   
-유용한 링크들입니다:
+유용한 링크들입니다: <br>
+__HackerRank__: https://practice.geeksforgeeks.org/topic-tags/?ref=shm <br>
+__LeetCode__: https://leetcode.com/problemset/all/ <br>
+__GFG__: https://practice.geeksforgeeks.org/topic-tags/?ref=shm <br>
+__BaekJoon__: https://www.acmicpc.net/ <br>
+__Coding Test Bible__: http://englishonlineclub.com/pdf/Cracking%20the%20Coding%20Interview%20-%20189%20Progr[…]0Solutions%20(6th%20Edition)%20[EnglishOnlineClub.com].pdf <br>
   ___
   
 ## 1. Using this repo  
