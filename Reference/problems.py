@@ -14,7 +14,7 @@ if parameter == 'p':
 
     window = tkinter.Tk()
     window.title("Main")
-    window.geometry('500x350')
+    window.geometry('1080x600')
     window.resizable(False, False)
 
     def buttonClicked():
