@@ -7,7 +7,7 @@ __Optional 같은 경우는 셀프 스터디로 진행 하도록 하겠습니다
 - Python Self-Review
 
 ### Week 2
-- Algorithms: Searching, Sorting, Math (Opt: Recommended)
+- Algorithms: Searching, Sorting, Divide and Conquer, Recursion, Math (Opt: Recommended)
 - Data Structures: Array, Linked List, Heap
 
 ### Week 3
