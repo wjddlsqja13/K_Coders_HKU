@@ -13,6 +13,8 @@ import sys
 # The function accepts 2D_INTEGER_ARRAY arr as parameter.
 #
 
+# 단순히 For Loop 두번 돌리기. 
+# 이 경우 복잡도가 O(N^2)으로 별로 좋지 못함. --> 어떻게 더 빠르게 만들 수 있을까?
 def hourglassSum(arr):
     # Write your code here
     sum_list = [] 
