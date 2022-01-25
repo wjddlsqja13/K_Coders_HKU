@@ -4,7 +4,6 @@ import tkinter
 from tkinter import ttk
 from problems_DB import problems_set
 
- 
 
 if len(sys.argv) != 2:
     print("Please Input a Parameter: p / t")
