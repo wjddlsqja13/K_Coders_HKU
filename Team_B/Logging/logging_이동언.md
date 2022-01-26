@@ -10,3 +10,6 @@ Jan 25:
  - HDL002 --> Team_B/Solutions/Data_Structure/2.Linked List/HDL002_Dongun.py
  - LDL003 --> Team_B/Solutions/Data_Structure/2.Linked List/LDL003_Dongun.py
  - LDL004 --> Team_B/Solutions/Data_Structure/2.Linked List/LDL004_Dongun.py
+
+Jan 26:
+ - HAS001 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/HAS001_Dongun.py
