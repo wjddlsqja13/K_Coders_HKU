@@ -17,3 +17,8 @@ Jan 26:
 Jan 27:
  - HAS002 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/HAS002_Dongun.py
  - HAS004 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/HAS004_Dongun.py
+ 
+Jan 28:
+ - HST001 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/HST001_Dongun.py
+ - HST002 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/HST002_Dongun.py
+ 
