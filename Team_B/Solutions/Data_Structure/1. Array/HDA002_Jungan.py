@@ -23,7 +23,7 @@ def matchingStrings(strings, queries):
         for string in strings:
             if query == string :
                 count +=1
-        result.append(count);
+        result.append(count)
     
     return result
             
