@@ -22,3 +22,5 @@ Jan 28:
  - HST001 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/HST001_Dongun.py
  - HST002 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/HST002_Dongun.py
  
+Jan 29:
+ - LAB001 --> Team_B/Solutions/Data_Structure/1.Array/LAB001_Dongun.py
