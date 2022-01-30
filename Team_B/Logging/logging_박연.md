@@ -8,6 +8,6 @@ Jan 26, 2022
 
 Jan 27, 2022
  - HAS001 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/HAS001_Yeon.py
- - HDL002 --> Team_B/Solutions/Data_Structure/2.Linked_list/HDL002_Yeon.py
+ - HDL002 --> Team_B/Solutions/Data_Structure/2.Linked List/HDL002_Yeon.py
  
 
