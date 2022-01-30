@@ -24,3 +24,8 @@ Jan 28:
  
 Jan 29:
  - LAB001 --> Team_B/Solutions/Data_Structure/1.Array/LAB001_Dongun.py
+
+Jan 30:
+ - BST001 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/BST001_Dongun.py
+ - LST002 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/LST002_Dongun.py
+ - LST003 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/LST003_Dongun.py
