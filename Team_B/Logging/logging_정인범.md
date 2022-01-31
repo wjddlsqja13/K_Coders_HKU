@@ -1,2 +1,3 @@
 - Jan 23: HDA001 --> Team_B/Solutions/Data_Structure/1.Array/
 - Jan 23: HDA002 --> Team_B/Solutions/Data_Structure/1.Array/
+- Jan 25: HDA003 --> Team_B/Solutions/Data_Structure/1.Array/
