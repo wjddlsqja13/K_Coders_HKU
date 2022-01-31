@@ -27,5 +27,9 @@ Jan 29:
 
 Jan 30:
  - BST001 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/BST001_Dongun.py
+ - LST001 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/LST001_Dongun.py
  - LST002 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/LST002_Dongun.py
+ 
+Jan 31:
  - LST003 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/LST003_Dongun.py
+ - LST004 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/LST004_Dongun.py
