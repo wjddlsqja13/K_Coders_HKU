@@ -2,3 +2,4 @@
 - Jan 23: HDA002 --> Team_B/Solutions/Data_Structure/1.Array/
 - Jan 25: HDA003 --> Team_B/Solutions/Data_Structure/1.Array/
 - Jan 31: HAS001 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/
+- Jan 31: HDL002 --> Team_B/Solutions/Data_Structure/2. Linked List/
