@@ -12,5 +12,8 @@ Jan 27, 2022
 
 Jan 31, 2022
  - LDL001 --> Team_B/Solutions/Data_Structure/2.Linked List/LDL001_Yeon.py
+
+Feb 1, 2022
+ - LDL003 --> Team_B/Solutions/Data_Structure/2.Linked List/LDL003_Yeon.py
  
 
