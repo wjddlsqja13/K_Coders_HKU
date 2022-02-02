@@ -38,3 +38,6 @@ Feb 1:
  - BST002 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/BST002_Dongun.py
  - BST003 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/BST003_Dongun.py
  - HST003 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/HST003_Dongun.py
+ 
+Feb 2:
+ - LDL005 --> Team_B/Solutions/Data_Structure/2.Linked List/LDL005_Dongun.py
