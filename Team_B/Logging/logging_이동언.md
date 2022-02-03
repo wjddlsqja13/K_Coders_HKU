@@ -22,3 +22,22 @@ Jan 28:
  - HST001 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/HST001_Dongun.py
  - HST002 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/HST002_Dongun.py
  
+Jan 29:
+ - LAB001 --> Team_B/Solutions/Data_Structure/1.Array/LAB001_Dongun.py
+
+Jan 30:
+ - BST001 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/BST001_Dongun.py
+ - LST001 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/LST001_Dongun.py
+ - LST002 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/LST002_Dongun.py
+ 
+Jan 31:
+ - LST003 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/LST003_Dongun.py
+ - LST004 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/LST004_Dongun.py
+
+Feb 1:
+ - BST002 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/BST002_Dongun.py
+ - BST003 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/BST003_Dongun.py
+ - HST003 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/HST003_Dongun.py
+ 
+Feb 2:
+ - LDL005 --> Team_B/Solutions/Data_Structure/2.Linked List/LDL005_Dongun.py
