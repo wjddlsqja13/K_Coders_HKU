@@ -15,7 +15,7 @@ Jan 26:
  - HAS001 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/HAS001_Dongun.py
  
 Jan 27:
- - HAS002 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/HAS002_Dongun.py
+ - HAS003 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/HAS003_Dongun.py
  - HAS004 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/HAS004_Dongun.py
  
 Jan 28:
@@ -41,3 +41,9 @@ Feb 1:
  
 Feb 2:
  - LDL005 --> Team_B/Solutions/Data_Structure/2.Linked List/LDL005_Dongun.py
+ 
+Feb 4:
+ - HAS002 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/HAS002_Dongun.py
+
+Feb 7:
+ - HDS002 --> Team_B/Solutions/Data_Structure/3.Stack, Queue, Priority Queue/HDS002.py
