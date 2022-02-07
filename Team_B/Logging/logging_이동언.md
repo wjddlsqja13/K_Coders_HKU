@@ -45,3 +45,5 @@ Feb 2:
 Feb 4:
  - HAS002 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/HAS002_Dongun.py
 
+Feb 7:
+ - HDS002 --> Team_B/Solutions/Data_Structure/3.Stack, Queue, Priority Queue/HDS002.py
