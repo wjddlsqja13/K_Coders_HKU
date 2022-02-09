@@ -51,3 +51,6 @@ Feb 7:
 Feb 8:
  - LDS001 --> Team_B/Solutions/Data_Structure/3.Stack, Queue, Priority Queue/LDS001.py
  - HDS003 --> Team_B/Solutions/Data_Structure/3.Stack, Queue, Priority Queue/HDS003.py
+
+Feb 9:
+ - HDQ001 --> Team_B/Solutions/Data_Structure/3.Stack, Queue, Priority Queue/HDQ001.py
