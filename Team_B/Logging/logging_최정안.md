@@ -1,5 +1,5 @@
 Jan 24: 
-* HDA001 --> Team_B/Solu\tions/Data_Structure/1.Array/HDA001_Jungan.py
+* HDA001 --> Team_B/Solutions/Data_Structure/1.Array/HDA001_Jungan.py
 * HDA002 --> Team_B/Solutions/Data_Structure/1.Array/HDA002_Jungan.py
 * HDA003 --> Team_B/Solutions/Data_Structure/1.Array/HDA003_Jungan.py
 * LDA003 --> Team_B/Solutions/Data_Structure/1.Array/LDA003_Jungan.py
@@ -22,3 +22,11 @@ Jan 28:
 * BST002 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/BST002_Jungan.py
 * BST003 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/BST003_Jungan.py
 * LST003 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/LST003_Jungan.py
+
+Feb 7:
+* HDS002 --> Team_B/Solutions/Data_Structure/3.Stack, Queue, Priority Queue/HDS002_Jungan.py
+* HDS003 --> Team_B/Solutions/Data_Structure/3.Stack, Queue, Priority Queue/HDS003_Jungan.py
+
+Feb 9:
+* HDQ001 --> Team_B/Solutions/Data_Structure/3.Stack, Queue, Priority Queue/HDQ001_Jungan.py
+* HDQ002 --> Team_B/Solutions/Data_Structure/3.Stack, Queue, Priority Queue/HDQ002_Jungan.py
