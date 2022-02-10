@@ -54,3 +54,6 @@ Feb 8:
 
 Feb 9:
  - HDQ001 --> Team_B/Solutions/Data_Structure/3.Stack, Queue, Priority Queue/HDQ001.py
+
+Feb 10:
+ - HDQ002 --> Team_B/Solutions/Data_Structure/3.Stack, Queue, Priority Queue/HDQ002.py
