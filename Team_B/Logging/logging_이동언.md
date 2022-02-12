@@ -62,3 +62,5 @@ Feb 11:
  - LDB001 --> Team_B/Solutions/Data_Structure/4.Binary Tree/LDB001_Dongun.py
  - LDB003 --> Team_B/Solutions/Data_Structure/4.Binary Tree/LDB003_Dongun.py
  
+Feb 12:
+ - HDB004 --> Team_B/Solutions/Data_Structure/5.Binary Search Tree/HDB004_Dongun.py
