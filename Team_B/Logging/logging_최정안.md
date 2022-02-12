@@ -30,3 +30,8 @@ Feb 7:
 Feb 9:
 * HDQ001 --> Team_B/Solutions/Data_Structure/3.Stack, Queue, Priority Queue/HDQ001_Jungan.py
 * HDQ002 --> Team_B/Solutions/Data_Structure/3.Stack, Queue, Priority Queue/HDQ002_Jungan.py
+
+Feb 12:
+* LDB001--> Team_B/Solutions/Data_Structure/4.Binary Tree/LDB001_Jungan.py
+* LDB006 --> Team_B/Solutions/Data_Structure/5.Binary Search Tree/LDB006_Jungan.py
+* HDA004 --> Team_B/Solutions/Data_Structure/1.Array/HDA004_Jungan.py
