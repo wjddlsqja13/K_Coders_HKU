@@ -79,3 +79,6 @@ Feb 16:
  
 Feb 17:
  - LDQ003 --> Team_B/Solutions/Data_Structure/3.Stack, Queue, Priority Queue/LDQ003_Dongun.py
+ 
+Feb 19:
+ - HDQ003 --> Team_B/Solutions/Data_Structure/3.Stack, Queue, Priority Queue/HDQ003_Dongun.py
