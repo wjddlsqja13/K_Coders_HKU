@@ -86,3 +86,7 @@ Feb 19:
 Feb 20:
  - LDB004 --> Team_B/Solutions/Data_Structure/4.Binary Tree/LDB004_Dongun.py
  
+Feb 21:
+ - HAS005 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/HAS005_Dongun.py
+ - HAS006 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/HAS006_Dongun.py
+ 
