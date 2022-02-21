@@ -17,4 +17,7 @@ Feb 18, 2022 <br>
 
 Feb 20, 2022 <br>
  * LDA003 --> Team_A/Solutions/Data_Structure/1.Array/LDA003_JoonSung.py
+
+Feb 21, 2022 <br>
+ * LDA004 --> Hello
  
