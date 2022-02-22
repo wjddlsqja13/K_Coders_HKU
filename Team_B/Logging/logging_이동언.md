@@ -90,3 +90,5 @@ Feb 21:
  - HAS005 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/HAS005_Dongun.py
  - HAS006 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/HAS006_Dongun.py
  
+Feb 22:
+ - LAS004 --> Team_B/Solutions/Algorithm/1.Searching and Sorting/LAS004_Dongun.py
