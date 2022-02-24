@@ -38,3 +38,10 @@ Feb 12:
 
 Feb 13:
 * LDH001 --> Team_B/Solutions/Data_Structure/7.Hashing/LDH001_Jungan.py
+
+Feb 24:
+* LAB001 --> Team_B/Solutions/Algorithm/11.Graph Algorithms/LAB001_Jungan.py
+* LAB002 --> Team_B/Solutions/Algorithm/11.Graph Algorithms/LAB002_Jungan.py
+
+Feb 25:
+* LAB003 --> Team_B/Solutions/Algorithm/11.Graph Algorithms/LAB003_Jungan.py
