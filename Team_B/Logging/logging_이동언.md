@@ -95,3 +95,6 @@ Feb 22:
  
 Feb 23:
  - LAB001 --> Team_B/Solutions/Algorithm/11.Graph Algorithms/LAB001_Dongun.py
+
+Feb 24:
+ - LAB002 --> Team_B/Solutions/Algorithm/11.Graph Algorithms/LAB002_Dongun.py
