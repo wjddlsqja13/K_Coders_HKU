@@ -30,5 +30,8 @@ Feb 21, 2022
 
 Feb 26, 2022
  - HDQ001 --> Team_B/Solutions/Data_Structure/3.Stack, Queue, Priority Queue/HDQ001_Yeon.py
+
+Feb 27, 2022
+ - LDQ002 --> Team_B/Solutions/Data_Structure/3.Stack, Queue, Priority Queue/LDQ002_Yeon.py
  
 
