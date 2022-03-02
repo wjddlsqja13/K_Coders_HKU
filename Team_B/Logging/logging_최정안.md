@@ -51,3 +51,6 @@ Feb 28:
 
 Mar 1:
 * LAB004 --> Team_B/Solutions/Algorithm/11.Graph Algorithms/LAB004_Jungan.py
+
+Mar 2:
+* LAB006 --> Team_B/Solutions/Algorithm/11.Graph Algorithms/LAB006_Jungan.py
