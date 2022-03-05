@@ -61,3 +61,6 @@ Mar 3:
 Mar 4:
 * LAB010 --> Team_B/Solutions/Algorithm/11.Graph Algorithms/LAB010_Jungan.py
 
+Mar 5:
+* HAG001 --> Team_B/Solutions/Algorithm/4.Greedy Algorithm/HAG001_Jungan.py
+* HAG002 --> Team_B/Solutions/Algorithm/4.Greedy Algorithm/HAG002_Jungan.py
