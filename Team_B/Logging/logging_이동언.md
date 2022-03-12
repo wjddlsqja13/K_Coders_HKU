@@ -143,3 +143,6 @@ Mar 10:
      
 Mar 11:
  - HAG009 --> Team_B/Solutions/Algorithm/4.Greedy Algorithm/HAG009_Dongun.py
+     
+Mar 12:
+ - HAG010 --> Team_B/Solutions/Algorithm/4.Greedy Algorithm/HAG010_Dongun.py
