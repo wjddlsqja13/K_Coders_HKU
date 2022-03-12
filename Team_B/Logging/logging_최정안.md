@@ -77,3 +77,6 @@ Mar 8:
 Mar 9:
 * HAG004 --> Team_B/Solutions/Algorithm/4.Greedy Algorithm/HAG004_Jungan.py
 * HAG009 --> Team_B/Solutions/Algorithm/4.Greedy Algorithm/HAG009_Jungan.py
+
+Mar 12 :
+* LAG003 --> Team_B/Solutions/Algorithm/4.Greedy Algorithm/LAG003_Jungan.py
