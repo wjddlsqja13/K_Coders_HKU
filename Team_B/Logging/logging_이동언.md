@@ -158,3 +158,6 @@ Mar 15:
         
 Mar 16:
  - LAG001 --> Team_B/Solutions/Algorithm/4.Greedy Algorithm/LAG001_Dongun.py
+         
+Mar 17:
+ - LAG002 --> Team_B/Solutions/Algorithm/4.Greedy Algorithm/LAG002_Dongun.py
