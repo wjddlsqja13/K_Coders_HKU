@@ -36,5 +36,9 @@ Feb 27, 2022
 
 Mar 11, 2022
  - HAG001 --> Team_B/Solutions/Algorithm/4.Greedy Algorithm/HAG001_Yeon.py
+
+Mar 16, 2022
+ - HAG002 --> Team_B/Solutions/Algorithm/4.Greedy Algorithm/HAG002_Yeon.py
+
  
 
