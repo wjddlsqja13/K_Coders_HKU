@@ -173,3 +173,6 @@ Mar 21:
          
 Mar 22:
  - LAG007 --> Team_B/Solutions/Algorithm/4.Greedy Algorithm/LAG007_Dongun.py
+ 
+Apr 4:
+ - HAD001 --> Team_B/Solutions/Algorithm/5.Dynamic Programming/HAD001_Dongun.py
