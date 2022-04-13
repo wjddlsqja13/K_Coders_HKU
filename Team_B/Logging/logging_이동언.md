@@ -200,3 +200,6 @@ Apr 11:
    
 Apr 12:
  - HAD008 --> Team_B/Solutions/Algorithm/5.Dynamic Programming/HAD008_Dongun.py
+ 
+Apr 13:
+ - LAD003 --> Team_B/Solutions/Algorithm/5.Dynamic Programming/LAD003_Dongun.py
